@@ -1,1 +1,2 @@
-adfasdf
+Pelatihan dalam membuat folder update menggunakan git
+
