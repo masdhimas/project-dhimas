@@ -1,2 +1,4 @@
 Pelatihan dalam membuat folder update menggunakan git
 
+
+kita mulai lagi dari awal
